@@ -65,7 +65,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "randupy",
+        "owner": "Randupy",
         "repo": "players-club",
         "releaseType": "release"
       }
