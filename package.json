@@ -1,7 +1,7 @@
 {
   "name": "players-club",
   "productName": "Players Club",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Players Club — лаунчер для скачивания, установки и запуска игр",
   "author": "Players Club",
   "private": true,
