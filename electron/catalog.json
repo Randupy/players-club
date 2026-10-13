@@ -1,0 +1,80 @@
+[
+  {
+    "id": "openra",
+    "name": "OpenRA",
+    "category": "Стратегии",
+    "tags": ["стратегия", "rts", "классика", "онлайн"],
+    "description": "Открытое воссоздание классических RTS Red Alert, Command & Conquer и Dune 2000 с онлайн-режимом.",
+    "repo": "OpenRA/OpenRA",
+    "assetPattern": "x64-winportable\\.zip$",
+    "license": "GPL-3.0",
+    "homepage": "https://www.openra.net"
+  },
+  {
+    "id": "supertuxkart",
+    "name": "SuperTuxKart",
+    "category": "Гонки",
+    "tags": ["гонки", "аркада", "семейная", "онлайн"],
+    "description": "Яркие аркадные гонки с карточками, бонусами, 20+ трассами и сетевой игрой.",
+    "repo": "supertuxkart/stk-code",
+    "assetPattern": "-win\\.zip$",
+    "license": "GPL-3.0",
+    "homepage": "https://supertuxkart.net"
+  },
+  {
+    "id": "unciv",
+    "name": "Unciv",
+    "category": "Стратегии",
+    "tags": ["стратегия", "пошаговая", "4x", "цивилизация"],
+    "description": "Пошаговая 4X-стратегия в духе Civilization V с модами и мультиплеером.",
+    "repo": "yairm210/Unciv",
+    "assetPattern": "Windows64.*\\.zip$",
+    "license": "MPL-2.0",
+    "homepage": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "id": "mindustry",
+    "name": "Mindustry",
+    "category": "Стратегии",
+    "tags": ["стратегия", "tower defense", "песочница", "автоматизация"],
+    "description": "Tower defense и автоматизация производства: стройте конвейеры, добывайте ресурсы и отбивайте волны.",
+    "repo": "Anuken/Mindustry",
+    "assetPattern": "[Ww]indows.*\\.zip$",
+    "license": "GPL-3.0",
+    "homepage": "https://mindustrygame.github.io"
+  },
+  {
+    "id": "luanti",
+    "name": "Luanti",
+    "category": "Песочницы",
+    "tags": ["песочница", "воксели", "моды", "онлайн"],
+    "description": "Воксельная песочница с тысячами модов и серверов (ранее Minetest).",
+    "repo": "luanti-org/luanti",
+    "assetPattern": "win64\\.zip$",
+    "license": "LGPL-2.1",
+    "homepage": "https://www.luanti.org"
+  },
+  {
+    "id": "cdda",
+    "name": "Cataclysm: Dark Days Ahead",
+    "category": "Рогалики",
+    "tags": ["рогалик", "выживание", "постапокалипсис", "песочница"],
+    "description": "Глубокий рогалик про выживание в постапокалиптическом мире с графической тайловой версией.",
+    "repo": "CleverRaven/Cataclysm-DDA",
+    "assetPattern": "windows-tiles-x64.*\\.zip$",
+    "allowPrerelease": true,
+    "license": "CC-BY-SA-3.0",
+    "homepage": "https://cataclysmdda.org"
+  },
+  {
+    "id": "shattered-pixel-dungeon",
+    "name": "Shattered Pixel Dungeon",
+    "category": "Рогалики",
+    "tags": ["рогалик", "пиксель-арт", "подземелья"],
+    "description": "Пиксельный рогалик с четырьмя классами героев и сотнями предметов.",
+    "repo": "00-Evan/shattered-pixel-dungeon",
+    "assetPattern": "[Ww]indows.*\\.zip$",
+    "license": "GPL-3.0",
+    "homepage": "https://shatteredpixel.com"
+  }
+]
